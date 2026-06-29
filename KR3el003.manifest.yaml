@@ -1,0 +1,116 @@
+canonical_identifier: bkk:krp/KR3el003/v1
+canonical_location: https://kanripo.org/bkk/KR3el003/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金瘡秘傳禁方
+  identifiers:
+    krp: KR3el003
+  tags:
+    kr-categories: KR3el
+  source:
+    repository: tls-texts
+    path: data/tls/KR3el003.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3el003_000.yaml, hash: 'sha256:41d4e987942ff1c801496c4af7d4318f4f221a4f1e4afb7a2c13e64570162dad'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3el003_000.markers.yaml, hash: 'sha256:d23ee2ddf1d8d8a2a98d160471cd9267e6c4c555b0784bf0ffec6fd17bbe746f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3el003_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 343
+  label: 秘書源流
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el003_jc_000-d3.h1s1
+    span:
+    - body
+    - 343
+    - 3128
+  label: 劉國師禁方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3el003_jc_000-d3d126
+    span:
+    - body
+    - 2481
+    - 2501
+  label: 追毒神樓散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el003_jc_000-d3d127
+    span:
+    - body
+    - 2501
+    - 2681
+  label: 箭吸筒藥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el003_jc_000-d3d128
+    span:
+    - body
+    - 2681
+    - 2898
+  label: 無價千金散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el003_jc_000-d3d129
+    span:
+    - body
+    - 2898
+    - 2971
+  label: 生肌散加減定式
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el003_jc_000-d3d130
+    span:
+    - body
+    - 2971
+    - 3035
+  label: 尋痛散
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el003_jc_000-d3d131
+    span:
+    - body
+    - 3035
+    - 3128
+  label: 五通
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3el003_jc_000-d4.h1s1
+    span:
+    - body
+    - 3128
+    - 4148
+  label: 秘傳葉保太仙授接骨奇方臨症口訣
+  type: section
+  level: 1
+hash: sha256:13e5b94fbbe201ff91700a5feb453a0a17d29d03c4e07947d1ea730a7f7d8943
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

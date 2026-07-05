@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3el003_000.yaml, hash: 'sha256:41d4e987942ff1c801496c4af7d4318f4f221a4f1e4afb7a2c13e64570162dad'}
+  - {seq: 0, filename: KR3el003_000.yaml, hash: 'sha256:423d0fe0ba9471a5b3129e34bfa75368352a006a740d39696d93ea6adc573c63'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3el003_000.markers.yaml, hash: 'sha256:d23ee2ddf1d8d8a2a98d160471cd9267e6c4c555b0784bf0ffec6fd17bbe746f'}
+  - {seq: 0, role: markers, filename: assets/KR3el003_000.markers.yaml, hash: 'sha256:31ba2c33e89aab3bbfd6f6a3be07722192ae1b50ba66dec6bcfaea7abefaf304'}
 table_of_contents:
 - ref:
     seq: 0
@@ -110,7 +110,4 @@ table_of_contents:
   label: 秘傳葉保太仙授接骨奇方臨症口訣
   type: section
   level: 1
-hash: sha256:13e5b94fbbe201ff91700a5feb453a0a17d29d03c4e07947d1ea730a7f7d8943
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:695d04deed7861417fea508144b701d69285e0dee0b9826a40bd40229c9e4a51

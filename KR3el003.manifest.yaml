@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3el003/v1
 canonical_location: https://kanripo.org/bkk/KR3el003/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 金瘡秘傳禁方
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3el003_000.yaml, hash: 'sha256:423d0fe0ba9471a5b3129e34bfa75368352a006a740d39696d93ea6adc573c63'}
+  - {seq: 0, filename: KR3el003_000.yaml, hash: 'sha256:e2355e0f59cd0222de076c380f935f024e2cf6e23f0893b0537689dc01d99900'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3el003_000.markers.yaml, hash: 'sha256:31ba2c33e89aab3bbfd6f6a3be07722192ae1b50ba66dec6bcfaea7abefaf304'}
+  - {seq: 0, role: markers, filename: assets/KR3el003_000.markers.yaml, hash: 'sha256:ab6bb9b9fac547c18f9903288483a67daa5197979adddc347b6c0087ac6cd2dc'}
 table_of_contents:
 - ref:
     seq: 0
@@ -110,4 +110,7 @@ table_of_contents:
   label: 秘傳葉保太仙授接骨奇方臨症口訣
   type: section
   level: 1
-hash: sha256:695d04deed7861417fea508144b701d69285e0dee0b9826a40bd40229c9e4a51
+hash: sha256:824385370cd9999c12dd00c839fa402c0290bf86def6f9c1d9972ec2c8bc20de
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

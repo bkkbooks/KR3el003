@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3el003_000.yaml, hash: 'sha256:e2355e0f59cd0222de076c380f935f024e2cf6e23f0893b0537689dc01d99900'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3el003_000.markers.yaml, hash: 'sha256:ab6bb9b9fac547c18f9903288483a67daa5197979adddc347b6c0087ac6cd2dc'}
+  - {seq: 0, role: markers, filename: assets/KR3el003_000.markers.yaml, hash: 'sha256:5d256474f51696209d0d7bc61a6c9fdc07e4fb1afc13a87265831c453d855714'}
 table_of_contents:
 - ref:
     seq: 0
@@ -110,7 +110,7 @@ table_of_contents:
   label: 秘傳葉保太仙授接骨奇方臨症口訣
   type: section
   level: 1
-hash: sha256:824385370cd9999c12dd00c839fa402c0290bf86def6f9c1d9972ec2c8bc20de
+hash: sha256:e877f8bb8b25c4b40668aa0236841f0645bcd06a554f2a647851b5549d2599d3
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
